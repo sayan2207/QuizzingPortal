@@ -1,0 +1,169 @@
+public class Upload_Questions
+{
+  public static void main()
+  {
+    FileWriter f=new FileWriter("Questions.txt");
+    BufferedWriter b=new BufferedWriter(f);
+    PrintWriter p=new PrintWriter(b);
+    
+    p.print("
+    
+    Who wrote the original tale of Goldilocks and the Three Bears?\n
+Henrey Charles\n
+Robert Southey\n
+Salman Khan\n
+George Bush\n
+Robert Southey\n
+Marilyn Monroe sang 'Happy Birthday, Mr. President' celebrating President Kennedy's birthday What age was he due to celebrate?\n
+45\n
+80\n
+66\n
+55\n
+45\n
+Who is played in the 2004 BBC TV movie Hawking by Tom Ward and in the 2014 movie The Theory of Everything by Christian McKay?\n
+Stephen Hawking\n
+Van Hoennheim\n
+Lucy Anderson\n
+Roger Penrose\n
+Roger Penrose\n
+In which city was escapologist Harry Houdini born?\n
+Budapest\n
+Los Angeles\n
+Paris\n
+Constantinople\n
+Budapest\n
+The Annual Golden Spurtle is the World Championships in making what?\n
+jewellery\n
+money\n
+porridge\n
+bicycles\n
+Porridge\n
+What does the word 'gnosis' mean in Greek?\n
+Rock\n
+Light\n
+knowledge\n
+Power\n
+Knowledge\n
+George Hudson proposed DST in 1895, what is it?\n
+Double Sheilding Theory\n
+Diminishing Saturn Theory\n
+Daylight Saving Time\n
+Disgusting Swiss Time\n
+Daylight Saving Time\n
+Who once said : 'Old age isn't so bad when you consider the alternative'?\n
+Jaundice Chevalier\n
+Maurice Chevalier\n
+Roberto Mc'Chevalier\n
+Fernando Mc'Chevalier\n
+Maurice Chevalier\n
+Guldize is the harvest festival of people living in what part of Britain?\n
+Whole of the Britain\n
+Whole of the south Britain\n
+Cornwall\n
+Whole of the north Britain\n
+Cornwall\n
+To an Australian, what is an 'esky'?\n
+No such word known to them\n
+sky\n
+irritating people\n
+portable cooler or ice box\n
+Portable cooler or ice box\n
+Flying Fish Cove is the main settlement on which island?\n
+Christmas Island\n
+DurgaPuja Island\n
+Easter Island\n
+New Year Island\n
+Christmas Island\n
+Alliumphobia is the fear of which food?\n
+pizza\n
+Garlic\n
+Pumpkin\n
+Green vegetables\n
+Garlic\n
+What is the most common surname in France?\n
+Armstrong\n
+La'Belle\n
+Martin\n
+French Fry\n
+Martin\n
+What does the Mongolic word 'dalai' mean, as in Dalai Lama?\n
+Dal\n
+Cement\n
+Mind\n
+Ocean\n
+Ocean\n
+Claudia Johnson, the former 'First Lady of the United States' and wife of Lyndon B. Johnson was BEST known by what name?\n
+Lady Bug\n
+Lady Bird\n
+Lady Johnson\n
+Lady America\n
+Lady Bird\n
+What is a qirt?\n
+A clothing\n
+A whip\n
+A breed of horse\n
+A dust bin\n
+A whip\n
+The Curse of Scotland is a nickname used for which playing card?\n
+Hearts\n
+Black Jack\n
+Nine of Diamonds\n
+Teen Patti\n
+Nine of Diamonds\n
+Captured in North Vietnam, American POW Jeremiah Denton repeatedly blinked his eyes in Morse Code during a forced 1966 television conference spelling out what word?\n
+Help\n
+Bored\n
+Torture\n
+Racism\n
+Torture\n
+Branded the 'eternal Booker bridesmaid', who was shortlisted five times for the Man Booker prize between 1973 and 1998 but never won?\n
+Bernard Shaw\n
+Beryl Bainbridge\n
+Charles Dickens\n
+T. S. Eliot\n
+Beryl Bainbridge\n
+What is Ziganka?\n
+An African preparation of roasted beef\n
+A Somalian surname\n
+"Heaven" in Japanese\n
+A Russian country dance\n
+A Russian country dance\n
+What was the first novel ever written on a typewriter?\n
+Gulliver's Travels\n
+The Adventures of Huckleberry Finn\n
+The Adventures of Tom Sawyer\n
+The Unfinished tale\n
+The Adventures of Tom Sawyer\n
+Which is the world's smallest flightless bird?\n
+Humming Bird\n
+Kiwi\n
+Liliput Penguins\n
+Bat\n
+Kiwi\n
+In which modern country is the ancient city of Bukhara?\n
+Pakistan\n
+Uzbekistan\n
+Kazakistan\n
+Afghanistan\n
+Uzbekistan\n
+What is the shared surname of the children in Enid Blyton's Famous Five series?\n
+Kirrin\n
+Lancer\n
+Hardy\n
+Elric\n
+Kirrin\n
+If feline is cat-like what is ranine?\n
+Dog-like\n
+Horse-like\n
+Frog-like\n
+Duck-like\n
+Frog-like\n
+Which country witnessed an 'orange revolution' between 2004 to 2005?\n
+Bhutan\n
+Spain\n
+Italy\n
+Ukraine\n
+Ukraine\n
+");
+  }
+}
